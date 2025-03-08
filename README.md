@@ -1,7 +1,13 @@
 NAAN MUDHALVAN DOCUMENT: https://drive.google.com/drive/folders/1JZBaaPrYXd6oZQ3TCqySWb3Wi-Rhc1cy
 NAAN MUDHALVAN DEMO VIDEO: https://drive.google.com/file/d/1JUM683JH4H6HTkJiOGay-2qaxLTW5mvS/view?usp=drivesdk
 
-Getting Started with Create React Ap
+Email id: P.Sharath(leader)- padmaprabu80@gmail.com 
+          B.Rithik - r00767289@gmail.com
+          S.Rajesh
+          Thulasiram
+          pushvendar
+
+etting Started with Create React Ap
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
